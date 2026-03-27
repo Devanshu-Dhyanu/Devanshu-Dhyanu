@@ -8,7 +8,7 @@
 
 <img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+
 - ## 🙋‍♂️ About Me
 
 > *"Where Code Meets Competition — I Build, I Play, I Win."*
@@ -27,6 +27,21 @@
 - 🛠️ Building projects with **React, Node.js, MySQL**
 - 🎯 Goal: Land a **top-tier tech role** while making an impact through code
 - 📬 Always open to **collaborations, opportunities & cool ideas!**
+- <p align="center">
+  <a href="www.linkedin.com/in/devanshudhyanu" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+   <a href="https://leetcode.com/devanshu_dhyanu13" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://www.youtube.com/@OOPSDhyanu13" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="mailto:devanshudhyanu0813@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+</a> 
+</p>
+
 
 
 ## 🧠 My Focus Areas
@@ -64,7 +79,6 @@
 </p>
 
 
-## 🛠️ Languages & Tools
 
 > ## Programming Languages
 <p align="center">
