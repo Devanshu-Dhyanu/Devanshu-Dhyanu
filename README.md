@@ -9,10 +9,24 @@
 <img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 📍As a sports enthusiast and a computer science student, I have a unique blend of skills that enable me to excel in both physical and digital domains.
-- 📍I am currently pursuing my Bachelor of Technology degree at Lovely Professional University, where I am expected to graduate in 2028.
-- 📍 My passion for sports led me to work as a sportsman, where I honed my teamwork, discipline, and leadership skills.
-- 📍In addition to my sports experience, I have developed strong proficiency in Object-Oriented Programming using C++, as well as Data Structures and SQL. I use these skills to build efficient programs, optimize solutions, and work with databases effectively. I am always eager to learn new technologies and apply them to real-world challenges.
+- ## 🙋‍♂️ About Me
+
+> *"Where Code Meets Competition — I Build, I Play, I Win."*
+
+🎓 **B.Tech CSE Student** @ Lovely Professional University *(2024 – 2028)*
+🏆 **Sportsman turned Developer** — discipline from the field, logic from the screen
+💡 **Passionate about** building scalable full-stack apps, exploring AI/ML, and automating with DevOps
+⚡ **Currently leveling up** in DSA, System Design & Cloud Technologies
+🌱 **Always learning** — because in tech, standing still means falling behind
+
+---
+
+### 🔍 Quick Facts
+- 🏅 Sports taught me **teamwork, leadership & never giving up**
+- 💻 Strong in **C, C++, Python, Java** & loves solving problems on LeetCode
+- 🛠️ Building projects with **React, Node.js, MySQL**
+- 🎯 Goal: Land a **top-tier tech role** while making an impact through code
+- 📬 Always open to **collaborations, opportunities & cool ideas!**
 
 
 ## 🧠 My Focus Areas
@@ -40,7 +54,7 @@
 
 ## 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Devanshu-Dhyanu?theme=light&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/devanshu_dhyanu13?theme=light&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
@@ -58,6 +72,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="margin: 4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## Frontend
